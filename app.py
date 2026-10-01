@@ -321,6 +321,27 @@ div[data-baseweb="input"] > div,
 div[data-baseweb="textarea"] > div {
     border-radius: 12px;
 }
+/* ============================================================
+   RADIO BUTTONS — números e opções visíveis
+   ============================================================ */
+
+div[data-testid="stRadio"] label {
+    color: #263238 !important;
+}
+
+div[data-testid="stRadio"] label p {
+    color: #263238 !important;
+    -webkit-text-fill-color: #263238 !important;
+}
+
+div[data-testid="stRadio"] [role="radiogroup"] label {
+    color: #263238 !important;
+}
+
+div[data-testid="stRadio"] [role="radiogroup"] label span {
+    color: #263238 !important;
+    -webkit-text-fill-color: #263238 !important;
+}
 
 </style>
 """,
