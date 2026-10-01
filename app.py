@@ -1303,7 +1303,7 @@ else:
             use_container_width=True
         )
 
-    # --------------------------------------------------------
+        # --------------------------------------------------------
     # QR CODE
     # --------------------------------------------------------
 
@@ -1315,25 +1315,16 @@ else:
     """
     )
 
-    st.caption(
-        "Depois que o aplicativo estiver publicado, "
-        "cole aqui a URL pública."
-    )
-
-    url = st.text_input(
-        "URL pública do aplicativo",
-        placeholder="https://seu-app.streamlit.app"
-    )
+    # URL pública do aplicativo ENEBI 26
+    url = "https://enebi-avaliacoes-cw2fzzsuhtbm96ngduyf8u.streamlit.app"
 
     if qrcode is None:
 
         st.warning(
-            "Instale qrcode[pil] para gerar o QR Code."
+            "Não foi possível gerar o QR Code."
         )
 
-    elif url.strip().startswith(
-        ("http://", "https://")
-    ):
+    else:
 
         qr = qrcode.QRCode(
             version=None,
@@ -1342,12 +1333,12 @@ else:
             border=4
         )
 
-        qr.add_data(url.strip())
+        qr.add_data(url)
         qr.make(fit=True)
 
         image = qr.make_image(
             fill_color=AZUL,
-            back_color=FUNDO
+            back_color="white"
         )
 
         buffer = io.BytesIO()
@@ -1357,10 +1348,13 @@ else:
         render_html(
             """
         <div class="qr-card">
-        <b style="color:#0B4F72;">ENEBI 26</b><br>
-        <span style="color:#377C7D;">
-        Avaliação de Apresentação Oral
-        </span>
+            <b style="color:#0B4F72;">
+                ENEBI 26
+            </b><br>
+
+            <span style="color:#377C7D;">
+                Avaliação de Apresentação Oral
+            </span>
         </div>
         """
         )
