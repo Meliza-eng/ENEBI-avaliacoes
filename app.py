@@ -52,6 +52,36 @@ CINZA = "#60757D"
 
 st.markdown(
     """
+/* Força os campos interativos para o tema claro */
+div[data-baseweb="input"] > div,
+div[data-baseweb="select"] > div,
+div[data-baseweb="textarea"] > div {
+    background-color: #FFFFFF !important;
+    color: #263238 !important;
+    border-color: #DCE7E7 !important;
+}
+
+div[data-baseweb="input"] input,
+div[data-baseweb="textarea"] textarea {
+    background-color: #FFFFFF !important;
+    color: #263238 !important;
+    -webkit-text-fill-color: #263238 !important;
+}
+
+div[data-baseweb="select"] * {
+    color: #263238 !important;
+}
+
+div[data-baseweb="select"] > div > div {
+    background-color: #FFFFFF !important;
+    color: #263238 !important;
+}
+
+div[data-baseweb="select"] input {
+    color: #263238 !important;
+    -webkit-text-fill-color: #263238 !important;
+}
+
 <style>
 #MainMenu { visibility: hidden; }
 footer { visibility: hidden; }
