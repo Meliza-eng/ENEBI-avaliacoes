@@ -61,6 +61,22 @@ header { visibility: hidden; }
     background: #F7FAFA;
 }
 
+[data-testid="stAppViewContainer"] {
+    background: #F7FAFA !important;
+}
+
+[data-testid="stHeader"] {
+    background: #F7FAFA !important;
+}
+
+[data-testid="stSidebar"] {
+    background: #F7FAFA !important;
+}
+
+html, body {
+    background: #F7FAFA !important;
+}
+
 .block-container {
     max-width: 700px;
     padding: 1rem 1rem 5rem;
