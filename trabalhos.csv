@@ -1,0 +1,90 @@
+﻿codigo,titulo
+ENB26-0001,Desenvolvimento de um protótipo para monitoramento de temperatura e umidade em órtese de membros inferiores
+ENB26-0015,Análise numérica comparativa usando a geometria original CAD e a geometria real medida com tomografia computadorizada em placas fabricadas por PBF-EB.
+ENB26-0030,Abordagem Computacional para Projeto Preliminar de Implante Craniano em PEEK
+ENB26-0033,Características geométricas e mecânicas de parafusos pediculares: uma revisão da literatura
+ENB26-0038,Modelagem Mecânica e Avaliação de Implantes na Osteotomia Femoral Distal pelo Método de Elementos Finitos
+ENB26-0046,Análise do Potencial do PEEK como Material Substituto em Implantes para Osteotomia Femoral Distal Utilizando o Método de Elementos Finitos
+ENB26-0057,Influência do material CAD/CAM de coroa sobre implante na reabilitação da agenesia de incisivo lateral superior: análise por elementos finitos
+ENB26-0219,Análise Comparativa de Integridade Estrutural e Estabilidade de Montagem em Acetábulos de Dupla Mobilidade via Elementos Finitos
+ENB26-0083,Análise numérica de desgaste em próteses de quadril: influência de parâmetros geométricos e cargas de inserção
+ENB26-0088,Automatização parcial da análise de partículas de desgaste em próteses de quadril utilizando Trainable Weka Segmentation.
+ENB26-0074,Exequilibilidade e um exame cinemático da marcha de indivíduos protetizados por meio de sensores inerciais
+ENB26-0131,Prótese de Membros Superiores com Troca Rápida de Ponteiras para Maior Autonomia
+ENB26-0135,Desenvolvimento de um programa de capacitação em CAD/CAM aplicado à tecnologia ortopédica: formação e inovação em bioengenharia para oficinas do sistema público de saúde
+ENB26-0136,Validação de cargas fisiológicas em hastes femorais não modulares com fratura distal baseada no modelo analítico de viga de Euler-Bernoulli para aplicação em modelos de elementos finitos
+ENB26-0148,"Síntesis cinemática y diseño estructural de una prótesis de rodilla policéntrica mediante coordenadas naturales, optimización basada en enseñanza–aprendizaje y optimización topológica"
+ENB26-0154,Aplicabilidade da classificação ODEP a um banco brasileiro de explantes de quadril: análise sobre o acervo do CNAEx
+ENB26-0161,Estudo das propriedades do Polipropileno impresso em 3D para uso na Fabricação de Órteses Tornozelo-pé (AFOs)
+ENB26-0163,Teste Mecânico Estático em Próteses Transtibiais Fabricados por Impressão 3D (FDM)
+ENB26-0183,DESENVOLVIMENTO DE MECANISMO ELETROMECÂNICO SEM FIO PARA SINCRONIZAÇÃO DA PISCADA EM PRÓTESES ÓCULO-PALPEBRAIS ATIVAS
+ENB26-0184,PRÓTESE BIÔNICA DE MÃO COM MOVIMENTOS DE ADUÇÃO E ABDUÇÃO DO POLEGAR PRODUZIDA POR MANUFATURA ADITIVA
+ENB26-0204,Distribuição de danos entre côndilos medial e lateral em insertos tibiais não congruentes: análise macroscópica de 59 explantes
+ENB26-0078,Biological Evaluation of 3D-Printed Porous Titanium Alloy Ti6Al4V Scaffolds
+ENB26-0119,Análise da Integridade de Superfície no Processo de Fresamento de Osso Cortical Bovino
+ENB26-0158,Influência da Adesão Interfacial e Morfologia das Partículas na Distribuição de Tensões em Compósitos Dentários Bioativos: Análise por Elementos Finitos em Microescala
+ENB26-0205,AVALIAÇÃO DE DANO NA INTERFACE MODULAR TAPER-TRUNNION EM HASTES DE TITÂNIO: EFEITO DO MATERIAL DA CABEÇA FEMORAL
+ENB26-0206,Development of stents with optimized geometries and controlled drug release for fabrication by 3D printing and injection molding in luminal applications
+ENB26-0213,O papel do Retrieval Analysis na avaliação do desempenho de artroplastias totais de quadril e joelho: um estudo bibliométrico baseado em dados da Scopus e PubMed
+ENB26-0020,An Integrated Python-Ansys APDL Approach for Bone Remodeling Studies
+ENB26-0144,Analysis of different hyperelastic constitutive for the aortic vessel in stent applications
+ENB26-0073,Intervertebral disc modeling and dataset generation
+ENB26-0129,Biomecânica da Fixação de Fratura da Disjunção da Sínfise Púbica da Pelve Feminina com Osteoporose
+ENB26-0132,Efeitos do Trauma de Alta Energia do Colo Femoral de Jovens
+ENB26-0036,Avaliação do impacto da região de enfraquecimento na progressão da curvatura da córnea com ceratocone
+ENB26-0039,Desenvolvimento e validação de um sistema de análise cinemática de baixo custo baseado em câmera RGB e MediaPipe
+ENB26-0040,Modelagem Eletromecânica do Miocárdio com Base em Dados Clínicos Multimodais em Cardiomiopatia Dilatada
+ENB26-0100,OTIMIZAÇÃO DE GUIAS CIRÚRGICAS PARA OSTEOTOMIA PERIACETABULAR UTILIZANDO SCRIPTING EM PYTHON E MÉTODO DOS ELEMENTOS FINITOS
+ENB26-0081,Simulação da hérnia de disco usando um modelo de dano e o Método dos Elementos Finitos
+ENB26-0109,Modelagem Computacional da Biomecânica da Córnea Humana
+ENB26-0116,Análise Comparativa entre Ativação Homogênea e Heterogênea em Simulações Computacionais da Atividade Eletromecânica Cardíaca
+ENB26-0123,Influência das Calcificações Cerebrais na Girificação Cortical em um Modelo Biomecânico da Síndrome Congênita do Vírus Zika
+ENB26-0124,CORRIDOR-BASED DESIGN AND FINITE ELEMENT VERIFICATION OF A TUBULAR ENERGY ABSORBER FOR SLED-PULSE CONTROL
+ENB26-0167,Automatização Paramétrica e Clusterização de Modelos Biomecânicos do Útero Gestante via Simulação Computacional
+ENB26-0194,Modelagem cardiovascular baseada em dados clínicos de pacientes com cardiomiopatia dilatada usando o CircAdapt
+ENB26-0195,APLICAÇÃO DE DESIGN GENERATIVO E ANÁLISE DE ELEMENTOS FINITOS NO DESENVOLVIMENTO DE UMA ÓRTESE ORTOPÉDICA PERSONALIZADA VIA IMPRESSÃO 3D E ESCANEAMENTO POR VARREDURA TRIDIMENSIONAL
+ENB26-0202,ANÁLISE MODAL E VALIDAÇÃO DE DINÂMICA ESTRUTURAL EM UMA ÓRTESE ORTOPÉDICA CUSTOMIZADA VIA MANUFATURA ADITIVA
+ENB26-0196,ANÁLISE BIOMECÂNCIA NUMÉRICA DE FIXAÇÃO ANTEROLATERAL PARA FRATURAS DE HOFFA
+ENB26-0207,AVALIAÇÃO DE IMPRIMIBILIDADE E CARACTERIZAÇÃO BIOMECÂNICA ESTÁTICA POR EXTRUSÃO DE MATERIAL (MEX) PARA IMPLANTES AUXÉTICOS LOMBARES EM POLIURETANO TERMOPLÁSTICO (TPU)
+ENB26-0031,Evaluation of the Influence of Knee Joint Geometric Parameters Through a Semi-Analytical Model in the Sagittal Plane
+ENB26-0140,"Preditores biomecânicos, fisiológicos e genéticos de lesão musculoesqueléticos em militares estudantes de educação física"
+ENB26-0203,Kinetic and Kinematic Characterization of Pole Use in Nordic Walking: Implications for Biofeedback Systems
+ENB26-0130,Modelo computacional multiescala de remodelação óssea: acoplamento da dinâmica celular e tecidual.
+ENB26-0055,Desenvolvimento de Órtese Personalizada de Punho e Mão por Manufatura Aditiva para Reabilitação Funcional: Integração entre Engenharia e Aplicação Clínica
+ENB26-0004,Simulação Preditiva da Marcha Hemiparética com Assistência Robótica Bilateral Utilizando OpenSim Moco
+ENB26-0087,Uso do OpenSim Moco para Simulação Biomecânica de Movimentos Complexos: Estudo de Caso da Mudança de Posição no Violino
+ENB26-0101,Integration of a Muscle Model and Predictive Control for Real-Time Ankle Emulation
+ENB26-0143,Modelagem Neuromusculoesquelética das fibras musculares: Estudo dos mecânismos de Propriocepção
+ENB26-0018,Controle Robusto H∞ de uma Prótese Ativa de Joelho com Saturação de Atuador via Sistemas de Lur’e e LMIs.
+ENB26-0044,Implementação da Casa da Qualidade no Projeto Informacional de um Equipamento de Manufatura Aditiva com Potencial para Aplicações Biomecânicas
+ENB26-0084,Acionadores Hospitalares: Revisão Normativa e Estudo Comparativo para Definição de Requisitos de Projeto.
+ENB26-0095,BEYOND NORMATIVE TABLES: A PROPOSED PROTOCOL FOR CUSTOMIZED SHOULDER RANGE OF MOTION ASSESSMENT USING INERTIAL MOTION SENSORS
+ENB26-0099,Physics-Based Prediction of WEB Deployment in Wide-Neck Bifurcation Aneurysms
+ENB26-0111,PRESSÃO DE SUCÇÃO NÃO-NUTRITIVA MENSURADA RECÉM-NASCIDOS E FATORES DE INFLUÊNCIA
+ENB26-0112,Intranasal Implantable Devices for Nose-to-Brain Drug Delivery in Neurological Disorders
+ENB26-0133,Biomechanical Response of the Periodontal Ligament in Kennedy Class I Removable Partial Dentures Without Indirect Retention: A Validated Finite Element Analysis
+ENB26-0155,Modelagem e Desenvolvimento de uma Bancada de Ensaio de Fadiga para Órteses do Tipo AFO
+ENB26-0220,OTIMIZAÇÃO MATEMÁTICA SIMPLIFICADA DE UMA CADEIRA DE RODAS DE CORRIDA
+ENB26-0128,Simulação de quedas de idosos observando a região do colo femoral utilizando o Método dos Elementos Finitos
+ENB26-0165,Avaliação Experimental da Goma de Xantana como Redutor de Arrasto em Escoamento em Fístula Arteriovenosa Ideal
+ENB26-0065,Controle quasi-LPV aplicado em um sistema de reabilitação robótica híbrido FES-Exoesqueleto
+ENB26-0103,A novel short-distance test to assess gait speed in older adults: a machine learning approach based on inertial data and wavelet transform
+ENB26-0037,VIBRATIONAL MODEL TO ENHANCE FORCE FEEDBACK FOR SPECIAL NEEDS CHILDREN WITH KNEE DISARTICULATION PROSTHESIS
+ENB26-0045,"ELUCIDAÇÃO DOS REQUISITOS DO USUÁRIO PARA UMA ÓRTESE DINÂMICA, COM ABORDAGEM DE PROJETO ORIENTADO PARA TECNOLOGIA ASSISTIVA"
+ENB26-0056,Desenvolvimento e análise estrutural de um quadro tubular para uma Handbike H5
+ENB26-0091,Desenvolvimento e Comparação de Técnicas de Detalhamento Superficial para Reprodução da Porosidade Cutânea em Modelo Nasal
+ENB26-0062,DESENVOLVIMENTO DE UM MODELO DE RODA NÃO PNEUMÁTICA COM RIGIDEZ ADAPTATIVA PARA CADEIRAS DE RODAS COM VALIDAÇÃO EXPERIMENTAL E NUMÉRICA
+ENB26-0085,DESENVOLVIMENTO DE UMA BANCADA PARA AVALIAÇÃO DE ÓRTESES PARA SUPRESSÃO MECÂNICA DE TREMORES PATOLÓGICOS
+ENB26-0086,Análise mecânica virtual em cadeiras de rodas para pré-avaliação em testes de normas
+ENB26-0058,Aquisição e Processamento de Sinais Mioelétricos para Controle de Próteses
+ENB26-0072,Kinematics of sitting down and standing up on different surfaces: a comparative biomechanical analysis between a chair and an pouf and its implications for furniture specification in interior design
+ENB26-0077,Application of Serious Games with Tracking Systems in the Treatment of Adolescent Idiopathic Scoliosis
+ENB26-0201,TECNOLOGIAS INOVADORAS PARA DISTÚRBIOS DA MARCHA EM CRIANÇAS COM PARALISIA CEREBRAL: UMA REVISÃO INTEGRATIVA
+ENB26-0008,CONTROLE ROBUSTO H∞ VIA LMIs PARA ATENUAÇÃO DE VIBRAÇÕES NO CORPO HUMANO SENTADO COM INCERTEZAS PARAMÉTRICAS NA MASSA DO OCUPANTE
+ENB26-0115,Proposta Metodológica para Avaliação da Influência do Uso de Chapéus na Percepção Sonora e Inteligibilidade da Fala
+ENB26-0122,Modelagem geométrica e estrutural de um chassi tubular para dispositivo de Mobilidade Assistiva Infantil de baixo custo
+ENB26-0181,UM SISTEMA DE RASTREAMENTO OCULAR PARA REABILITAÇÃO DE PESSOAS COM DEFICIÊNCIAS MOTORAS SEVERAS VIA CVML
+ENB26-0209,Requisitos de projeto para um exoesqueleto pediátrico com elos flexiveis
+ENB26-0060,IMPACTOS BIOMECÂNICOS DO APARELHO ORTODÔNTICO FIXO NA EMBOCADURA DO TROMPETISTA: APROXIMAÇÕES ATRAVÉS DA PRODUÇÃO DE UM SIMULACRO
+ENB26-0098,Challenges in Simulating the Insertion of Orthodontic Mini-Implants Using the Finite Element Method
+ENB26-0067,Modelagem computacional do sistema cardiorrespiratório
